@@ -9,6 +9,22 @@
 
 This project predicts customer churn using the IBM Telco Customer Churn dataset and translates machine learning results into actionable business insights. The goal is to identify customers who are likely to leave so the business can take preventive action through targeted retention strategies.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Repository Structure](#repository-structure)
+- [Dataset](#dataset)
+- [Methodology](#methodology)
+- [Models Used](#models-used)
+- [Key Results](#key-results)
+- [Risk Segmentation](#risk-segmentation)
+- [Dashboard](#dashboard)
+- [Tools and Technologies](#tools-and-technologies)
+- [Business Recommendations](#business-recommendations)
+- [Project Files](#project-files)
+- [Author](#author)
+
 ## Project Overview
 
 Customer churn is a major challenge in the telecom industry because retaining existing customers is often more cost-effective than acquiring new customers. This project uses machine learning to predict churn probability, identify key churn drivers, and segment customers into low, medium, and high risk groups.
